@@ -22,4 +22,4 @@ after_success:
 - docker push lequyenlinh110/udagram-reverseproxy:v4
 - docker push lequyenlinh110/udagram-api-feed:v4
 - docker push lequyenlinh110/udagram-api-user:v4
-- docker push lequyenlinh110/udagram-frontend:v4
+- docker push lequyenlinh110/udagram-frontend:v5
